@@ -1,10 +1,10 @@
-# 🌤️ Weather Dashboard
+# Weather Dashboard
 
 A beautiful, responsive weather dashboard that provides real-time weather information and 5-day forecasts for any city in the world.
 
-![Weather Dashboard](screenshot.png)
+![Weather Dashboard]
 
-## ✨ Features
+##  Features
 
 - 🔍 Search weather by city name
 - 🌡️ Real-time temperature and weather conditions
@@ -14,18 +14,16 @@ A beautiful, responsive weather dashboard that provides real-time weather inform
 - 🎨 Modern gradient UI with smooth animations
 - ⚡ Fast and lightweight
 
-## 🚀 Demo
 
-[Live Demo](#) <!-- Add your GitHub Pages link here -->
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3 (Flexbox & Grid)
 - Vanilla JavaScript (ES6+)
 - OpenWeatherMap API
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before you begin, you'll need to get a free API key from OpenWeatherMap:
 
@@ -34,7 +32,7 @@ Before you begin, you'll need to get a free API key from OpenWeatherMap:
 3. Generate your API key
 4. Copy the API key for the next step
 
-## ⚙️ Installation
+## Installation
 
 1. Clone this repository:
 ```bash
@@ -62,7 +60,7 @@ const API_KEY = 'your_actual_api_key_here';
 3. View current weather conditions and 5-day forecast
 4. The dashboard loads London weather by default
 
-## 📸 Screenshots
+## Screenshots
 
 ### Desktop View
 ![Desktop View](screenshots/desktop.png)
@@ -70,28 +68,22 @@ const API_KEY = 'your_actual_api_key_here';
 ### Mobile View
 ![Mobile View](screenshots/mobile.png)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR-USERNAME/weather-dashboard/issues).
 
-## 📝 License
+##  License
 
 This project is [MIT](LICENSE) licensed.
 
-## 👤 Author
+##  Author
 
-**Your Name**
+Aakash Suresh
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [@aakashsuresh1699-code]
 
-## 🙏 Acknowledgments
 
-- Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
-- Icons and emojis for weather representation
-- Inspiration from modern weather apps
-
-## 📌 Future Enhancements
+##  Future Enhancements
 
 - [ ] Add geolocation support
 - [ ] Implement weather alerts
