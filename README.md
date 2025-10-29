@@ -2,7 +2,6 @@
 
 A beautiful, responsive weather dashboard that provides real-time weather information and 5-day forecasts for any city in the world.
 
-![Weather Dashboard]
 
 ##  Features
 
@@ -53,26 +52,17 @@ const API_KEY = 'your_actual_api_key_here';
 
 5. Open `index.html` in your browser or use a local server
 
-## 🌐 Usage
+## Usage
 
 1. Enter any city name in the search box
 2. Press Enter or click the Search button
 3. View current weather conditions and 5-day forecast
 4. The dashboard loads London weather by default
 
-## Screenshots
+# App live link 
 
-### Desktop View
-![Desktop View](screenshots/desktop.png)
+https://aakashsuresh1699-code.github.io/weather-dashboard/
 
-### Mobile View
-![Mobile View](screenshots/mobile.png)
-
-##  Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR-USERNAME/weather-dashboard/issues).
-
-##  License
 
 This project is [MIT](LICENSE) licensed.
 
@@ -93,6 +83,5 @@ Aakash Suresh
 - [ ] Save favorite cities
 - [ ] Dark/Light theme toggle
 
----
 
 ⭐ Star this repo if you find it helpful!
